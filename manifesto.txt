@@ -1,0 +1,4 @@
+this file for working with files in php
+hello php load file
+hello user
+buy
